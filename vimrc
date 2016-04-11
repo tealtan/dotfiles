@@ -47,7 +47,7 @@ set linebreak
 set cursorline
 set showbreak=→
 set nowrap
-set textwidth=80 " make it obvious where 79 characters is
+set textwidth=79 " make it obvious where 79 characters is
 set colorcolumn=+1 " draw a line after 79 characters
 
 " Special Things
